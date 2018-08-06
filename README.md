@@ -9,3 +9,4 @@ ml20180615a - [Tensorflow in Processing with the LabelImage example](http://www.
 
 ml20180806a - [OpenCV Deep Neural Network module with Processing](http://www.magicandlove.com/blog/2018/08/06/deep-neural-network-dnn-module-with-processing/)
 
+ml20180806b - [OpenPose in Processing with the OpenCV DNN module](http://www.magicandlove.com/blog/2018/08/06/openpose-in-processing-and-opencv-dnn/)
