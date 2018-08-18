@@ -12,3 +12,5 @@ ml20180806a - [OpenCV Deep Neural Network module with Processing](http://www.mag
 ml20180806b - [OpenPose in Processing with the OpenCV DNN module](http://www.magicandlove.com/blog/2018/08/06/openpose-in-processing-and-opencv-dnn/)
 
 ml20180808a - [Darknet YOLO v3 testing in Processing with the OpenCV DNN module](http://www.magicandlove.com/)
+
+ml20180818a - [Face detection with the OpenCV Face module in Processing](http://www.magicandlove.com/blog/2018/08/18/face-detection-with-the-opencv-face-module-in-processing/)
