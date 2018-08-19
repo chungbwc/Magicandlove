@@ -9,7 +9,7 @@ final int W = 300, H = 300;
 
 PImage img1, img2;
 String faceFile, modelFile;
-EigenFaceRecognizer fr;
+//EigenFaceRecognizer fr;
 Facemark fm;
 PVector offset;
 
