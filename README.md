@@ -14,3 +14,5 @@ ml20180806b - [OpenPose in Processing with the OpenCV DNN module](http://www.mag
 ml20180808a - [Darknet YOLO v3 testing in Processing with the OpenCV DNN module](http://www.magicandlove.com/)
 
 ml20180818a - [Face detection with the OpenCV Face module in Processing](http://www.magicandlove.com/blog/2018/08/18/face-detection-with-the-opencv-face-module-in-processing/)
+
+ml20180818b - [Face landmark detection in OpenCV Face module with Processing](http://www.magicandlove.com/blog/2018/08/19/face-landmark-detection-in-opencv-face-module-with-processing/)
