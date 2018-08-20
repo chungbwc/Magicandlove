@@ -20,3 +20,7 @@ ml20180818b - [Face landmark detection in OpenCV Face module with Processing](ht
 ml20180819a - [Face landmark convex hull detection in OpenCV with Processing](http://www.magicandlove.com/blog/2018/08/20/face-landmark-convex-hull-detection-in-opencv-with-processing/)
 
 ml20180819b - [Delaunay triangulation of the face contour in OpenCV with Processing](http://www.magicandlove.com/blog/2018/08/20/delaunay-triangulation-of-the-face-contour-in-opencv-with-processing/)
+
+ml20180820a - [Face swap example in OpenCV with Processing (v.1)](http://www.magicandlove.com/blog/2018/08/20/face-swap-example-in-opencv-with-processing-v-1/)
+
+ml20180820b - [Face swap example in OpenCV with Processing (v.2)](http://www.magicandlove.com/blog/2018/08/20/face-swap-example-in-opencv-with-processing-v-2/)
