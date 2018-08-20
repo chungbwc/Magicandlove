@@ -129,7 +129,6 @@ private void swapFaces() {
 
     warp.convertTo(warp, CvType.CV_8UC3);
     CVImage last = new CVImage(warp.cols(), warp.rows());
-    last.copyTo(warp);
     Mat output = new Mat(warp.size(), warp.type());
     Photo.seamlessClone(warp, im2, mask, centre, output, Photo.NORMAL_CLONE);
     last.copyTo(output);
