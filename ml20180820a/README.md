@@ -1,10 +1,5 @@
-﻿Please download the [Tensorflow 1.8.0 for Java](https://www.tensorflow.org/install/install_java) into the **code** folder. It should include the following:
+Please download the [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) into the **data** folder. In addition to the Haar Cascades file, we also need the face landmark definition. If we build the OpenCV with the Face module, it will download automatically. Otherwise, we can also download from [face_landmark_model.dat](https://github.com/opencv/opencv_3rdparty/tree/contrib_face_alignment_20170818).
 
-libtensorflow_jni-1.8.0.jar
-libtensorflow-1.8.0.jar
-tensorflow-1.8.0.jar
+The folder also contains the 2 photos, daniel.jpg and george.jpg for testing.
 
-Please also download the pre-trained model at [https://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip](https://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip).
-Unzip the file and put all the content into the **data** folder of the Processing sketch.
-
-You can use the sample image file for testing. It is the *BearBear.jpg* in the **data** folder.
+The CVImage library is also required for this sketch. It can be installed properly as a Processing library or temporarily in the **code** folder.
