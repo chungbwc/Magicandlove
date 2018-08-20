@@ -19,4 +19,4 @@ ml20180818b - [Face landmark detection in OpenCV Face module with Processing](ht
 
 ml20180819a - [Face landmark convex hull detection in OpenCV with Processing](http://www.magicandlove.com/blog/2018/08/20/face-landmark-convex-hull-detection-in-opencv-with-processing/)
 
-ml20180819b - [Delaunay triangulation of the face contour in OpenCV with Processing]()
+ml20180819b - [Delaunay triangulation of the face contour in OpenCV with Processing](http://www.magicandlove.com/blog/2018/08/20/delaunay-triangulation-of-the-face-contour-in-opencv-with-processing/)
