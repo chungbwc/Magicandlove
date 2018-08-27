@@ -1,5 +1,5 @@
 # Magicandlove
-Source code for the tutorials and demonstrations in my website http://www.magicandlove.com
+Source code for the tutorials and demonstrations in my website http://www.magicandlove.com. Most of the examples will need the Java binding of OpenCV, packaged as the CVImage library for Processing. The latest one 3.4.2 is available in this [post](http://www.magicandlove.com/blog/2018/07/20/opencv-3-4-2-java-build/) of my website.
 
 ml20180227a - [Charts in Processing](http://www.magicandlove.com/blog/2018/02/27/charts-in-processing/)
 
