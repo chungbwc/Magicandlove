@@ -25,5 +25,5 @@ ml20180820a - [Face swap example in OpenCV with Processing (v.1)](http://www.mag
 
 ml20180820b - [Face swap example in OpenCV with Processing (v.2)](http://www.magicandlove.com/blog/2018/08/20/face-swap-example-in-opencv-with-processing-v-2/)
 
-ml20180827a - [Neural network style transfer in OpenCV with Processing](http://www.magicandlove.com/)
+ml20180827a - [Neural network style transfer in OpenCV with Processing](http://www.magicandlove.com/blog/2018/08/27/neural-network-style-transfer-in-opencv-with-processing/)
 
