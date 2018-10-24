@@ -29,5 +29,5 @@ ml20180827a - [Neural network style transfer in OpenCV with Processing](http://w
 
 ml20181024a - [Intel Realsense in Processing (Windows) - Colour image]()
 
-ml20181024b - [Intel Realsense in Processing (Windows) - Dpeth image]()
+ml20181024b - [Intel Realsense in Processing (Windows) - Depth image]()
 
