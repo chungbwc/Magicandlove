@@ -27,3 +27,7 @@ ml20180820b - [Face swap example in OpenCV with Processing (v.2)](http://www.mag
 
 ml20180827a - [Neural network style transfer in OpenCV with Processing](http://www.magicandlove.com/blog/2018/08/27/neural-network-style-transfer-in-opencv-with-processing/)
 
+ml20181024a - [Intel Realsense in Processing (Windows) - Colour image]()
+
+ml20181024b - [Intel Realsense in Processing (Windows) - Dpeth image]()
+
