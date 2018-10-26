@@ -31,3 +31,4 @@ ml20181024a - [Intel Realsense in Processing (Windows) - Colour image](http://ww
 
 ml20181024b - [Intel Realsense in Processing (Windows) - Depth image](http://www.magicandlove.com/blog/2018/10/24/intel-realsense-depth-image-in-processing-windows-only/)
 
+ml20181026a - [First try of P5 and OpenCV JS in Electron]()
