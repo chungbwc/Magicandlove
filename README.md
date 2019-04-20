@@ -33,5 +33,4 @@ ml20181024b - [Intel Realsense in Processing (Windows) - Depth image](http://www
 
 ml20181026a - [First try of P5 and OpenCV JS in Electron](http://www.magicandlove.com/blog/2018/10/26/first-try-of-p5-and-opencv-js-in-electron/)
 
-ml20190415 - Using midi in Processing for playback a midi file
-
+ml20190419a - [Using midi in Processing for playback a midi file](http://www.magicandlove.com/blog/2019/04/20/using-midi-in-processing-for-playback/)
